@@ -68,7 +68,9 @@ const answers = [
     '{userName},１２',
     '{userName},１３',
     '{userName},１４',
-    '{userName},１５'
+    '{userName},１５',
+    '{userName},１６　新機能',
+    
 ];
 
 /**
